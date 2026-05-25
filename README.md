@@ -20,4 +20,5 @@ pip install streamlit requests beautifulsoup4 lxml pandas matplotlib
 streamlit run app.py
 
 사용라이브러리 
-streamlit, requests, beautifulsoup4, lxml, pandas, matplotlib
+streamlit, requests, beautifulsoup4, lxml, pandas, matplotlib(외부라이브러리)
+platform, urllib(파이썬 내장 표준 라이브러리)
